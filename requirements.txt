@@ -1,0 +1,5 @@
+wtforms==2.3.3
+apache-airflow[postgres]==1.10.14
+dbt==0.15
+SQLAlchemy==1.3.23
+MarkupSafe==2.0.1
